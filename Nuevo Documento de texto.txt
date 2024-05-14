@@ -1,0 +1,13 @@
+subir repositorio
+$ git add .
+
+
+comentario
+git commit -m "comentario va acá"        //la -m es por message
+
+
+git push origin master            //para subir la actualización 
+
+ 
+traer contenido repositorio a carpeta:
+git pull origin master
